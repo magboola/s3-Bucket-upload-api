@@ -33,8 +33,8 @@ If the installation was successful, you should be able to run the following comm
 
 ## Install
 
-    $ git clone https://github.com/magboola/Node-Rest-Service.git
-    $ cd Node-Rest-Service
+    $ git clone https://github.com/magboola/s3-Bucket-upload-api.git
+    $ cd s3-Bucket-upload-api
     
 To install all the dependencies in the `package.json` file, run.
     
